@@ -1,0 +1,1 @@
+Este texto <strong>contem</strong> negrito.
